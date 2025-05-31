@@ -11,13 +11,9 @@ x-prop-colorspace Default
 x-prop-max_bpc 12
 x-prop-non_desktop 0
 x-prop-scaling_mode Full aspect
-output HDMI-1-2
+output HDMI-1-0
 crtc 3
 mode 1920x1080
 pos 1920x0
 rate 60.00
 x-prop-non_desktop 0
-x-prop-scaling_mode None
-x-prop-underscan off
-x-prop-underscan_hborder 0
-x-prop-underscan_vborder 0
